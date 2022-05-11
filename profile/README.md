@@ -1,3 +1,3 @@
 # MyDemonList
 
-MyDemonList is Geometry Dash level rating website.
+MyDemonList is a Geometry Dash level rating website.
